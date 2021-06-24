@@ -1,0 +1,18 @@
+body, .card-body {
+	background-color: rgb(36, 41, 46) !important;
+}
+
+h1, h2, h3, h4, h5, h6, ul {
+	color: rgb(255, 255, 255);
+}
+
+p, span, small {
+	color: #ffffff;
+}
+
+hr{
+	margin:20px;
+    background-color: #eaeaea;
+
+
+}

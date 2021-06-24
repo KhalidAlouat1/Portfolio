@@ -1,28 +1,45 @@
 .DM-btn {
-  background-color: #343a40; 
-  border: none; 
-  color: white; 
-  padding: 6px 13px; 
-  font-size: 20px; 
+  background-color: #343a40;
+  border: none;
+  color: white;
+  padding: 6px 13px;
+  font-size: 20px;
   cursor: pointer;
+  outline: none;
 }
+
 .DM-btn2 {
-  background-color: #343a40; 
-  border: none; 
-  color: white; 
-  padding: 6px 13px; 
-  font-size: 20px; 
+  background-color: #343a40;
+  border: none;
+  color: white;
+  padding: 6px 13px;
+  font-size: 20px;
   cursor: pointer;
+  outline: none;
 }
-.Contact-img{
-display: block  ;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
+
+.Contact-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-.Overmij-img{
+
+.Overmij-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.DM-btn:focus {
+  outline: none;
+}
+
+.Higherlower {
 display: block;
 margin-left: auto;
 margin-right: auto;
-}
+height: 200px;
+width: auto;
 
+}

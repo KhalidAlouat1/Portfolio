@@ -1,0 +1,18 @@
+body {
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+}
+
+p, span, small {
+	color: rgb(0, 0, 0);
+}
+
+hr{
+	margin: 20px;
+    background-color: #000000;
+
+
+}
