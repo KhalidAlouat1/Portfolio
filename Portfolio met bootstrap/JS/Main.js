@@ -4,11 +4,13 @@ window.addEventListener("DOMContentLoaded", (event) => {
     }
 
 })
-
+// Function voor dark/light mode om te swappen van CSS
 function swapStyle(sheet) {
     document.getElementById('mystylesheet').href = sheet
     localStorage.setItem('theme', sheet)
 }
+
+// Meer functions
 
 function variables(){
     t = 1;
@@ -50,7 +52,7 @@ empty4==empty5 && empty5==empty6 && empty6==1 ||
     history.go(0)
   }
 }
-
+// If statements
 function turnchange(t){
   if (change == 1)  {
     if (t == 0){
@@ -127,7 +129,7 @@ else {
 }
 return (xo) ;
 }
-
+// Meer functions
 function change_b1(form){	
     clicked = 1;    
     changing(clicked) ;     

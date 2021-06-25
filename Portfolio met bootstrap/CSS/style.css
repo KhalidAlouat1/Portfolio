@@ -34,26 +34,20 @@
 .DM-btn:focus {
   outline: none;
 }
-
+/* Css van plaatjes */
 .Higherlower {
-display: block;
-margin-left: auto;
-margin-right: auto;
-height: 200px;
-width: auto;
-
-}
-.Csplaatje{
-
-text-align: center;
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: auto;
 }
 
-.Naamrek{
-	color: rgb(0, 0, 0);
-	text-align: center;
-	
-	}
+.Csplaatje {
+  text-align: center;
+}
 
-  
-  
+.Naamrek {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
