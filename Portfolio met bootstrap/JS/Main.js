@@ -4,13 +4,13 @@ window.addEventListener("DOMContentLoaded", (event) => {
     }
 
 })
-// Function voor dark/light mode om te swappen van CSS
+// Function voor dark/light mode om te swappen van CSS (Dark & Light)
 function swapStyle(sheet) {
     document.getElementById('mystylesheet').href = sheet
     localStorage.setItem('theme', sheet)
 }
 
-// Meer functions
+// BKE JS
 
 function variables(){
     t = 1;
@@ -52,7 +52,7 @@ empty4==empty5 && empty5==empty6 && empty6==1 ||
     history.go(0)
   }
 }
-// If statements
+
 function turnchange(t){
   if (change == 1)  {
     if (t == 0){

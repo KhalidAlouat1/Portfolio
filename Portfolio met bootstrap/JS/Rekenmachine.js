@@ -1,3 +1,5 @@
+// Rekenmachine JS
+
 //console.log("hallo");
 function getHistory() {
 	return document.getElementById("history-value").innerText;

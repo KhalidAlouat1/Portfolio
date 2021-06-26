@@ -34,7 +34,16 @@
 .DM-btn:focus {
   outline: none;
 }
-/* Css van plaatjes */
+
+.Boter {
+  margin-left: 430px;
+}
+
+.Naamrek {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
 .Higherlower {
   display: block;
   margin-left: auto;
@@ -44,10 +53,5 @@
 }
 
 .Csplaatje {
-  text-align: center;
-}
-
-.Naamrek {
-  color: rgb(0, 0, 0);
   text-align: center;
 }
